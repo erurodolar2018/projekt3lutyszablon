@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+# witaj na mojej stronie
+
+
+![Zdjecie](https://thumbs.img-sprzedajemy.pl/1000x901c/9d/0a/2f/lodz-motorowa-antares-6-turbo-diesel-2009-okazja-rok-produkcji-2009-gdansk-505309694.jpg)
+
+
 
 You can use the [editor on GitHub](https://github.com/erurodolar2018/projekt3lutyszablon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
